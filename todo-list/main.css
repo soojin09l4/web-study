@@ -1,0 +1,53 @@
+body {
+    background-color: pink;
+}
+
+#container {
+    width: 500px;
+    height: 500px;
+    margin-top : 300px;
+    text-align: center;
+}
+
+#title {
+    color: white;
+    font-family:'Black Han Sans', sans-serif;
+}
+
+#sub-container{
+    width: 100%;
+    height: 300px;
+    background-color: white;
+    border-radius: 5%;
+    border : 3px solid hotpink;
+}
+
+#list-group{
+    padding-top: 20px;
+}
+
+#list-group-item{
+    border: none !important;
+    border-bottom: 1px solid rgb(219, 219, 219) !important;
+}
+
+#delete-button{
+    background-color: red;
+}
+
+#input-group{
+    margin-top: 10px;
+}
+
+#input-area{
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+#button-area{
+    border : none;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    background-color: indigo;
+    color: white;
+}
